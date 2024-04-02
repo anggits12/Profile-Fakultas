@@ -24,9 +24,11 @@ class Constants {
       headOfProgram: 'Dr. Ir. Sintha Soraya Santi, MT',
       website: 'https://tekkimia.upnjatim.ac.id/',
       achievements: [
-        'Winner of the National Computer Science Competition 2021.',
-        'Recipient of the Best Research Paper Award at the International Conference on Computer Science.',
-        'Ranked among the top 10 computer science programs in the country by XYZ Ranking.',
+        'Fitrah Guna Muhammad (2021) - Juara 2 Lomba Demo Jujitsu Unesa Open 2023',
+        'Irham Alva Royyan (2020) - Juara 1 Essay Nasional 2023',
+        'Nashrul Amin (2022) - Peraih Medali Emas - Kompetisi Sains Indonesia Merdeka (KOSMIK) 2023',
+        'FildzahS fiia Putri (2020) - Ouara II Tari Modern Dance Accent Cover Competition',
+        'Dewa Ayu Putri Maheswari (2020) - 3uara Harapan 3 dalam Lomba Orasi Universitas Muhammadiyah Surabaya Championship',
       ],
       lecturers: [
         'Prof. Dr. Ir. Ni Ketut Sari',
@@ -49,9 +51,9 @@ class Constants {
       headOfProgram: 'Dr.T.Ir. Luluk Edahwati, MT.',
       website: 'https://tekmesin.upnjatim.ac.id/',
       achievements: [
-        'Winner of the National Computer Science Competition 2021.',
-        'Recipient of the Best Research Paper Award at the International Conference on Computer Science.',
-        'Ranked among the top 10 computer science programs in the country by XYZ Ranking.',
+        'Nasiruddin Hanif (2022) - Jara 3 Medali Perunggu Cabor Pencak Silat kategori Tunggal Putra PORPROV JATIM VII Tahun 2022',
+        'Nasiruddin Hanif (2022) - Juara 2 Kejurda Kota Surabaya Kategori Tnggal Putra Dewasa 2023',
+        'Nasiruddin Hanif (2022) - Juara 2 Pencak Silat Pomprov Jatim2 2023',
       ],
       lecturers: [
         'Dr. Wahyu Dwi Lestari, S.Pd.,MT.',
@@ -78,9 +80,11 @@ class Constants {
       headOfProgram: 'Dr. Ir. Hendrata Wibisana, M.T.',
       website: 'https://teksipil.upnjatim.ac.id/',
       achievements: [
-        'Winner of the National Computer Science Competition 2021.',
-        'Recipient of the Best Research Paper Award at the International Conference on Computer Science.',
-        'Ranked among the top 10 computer science programs in the country by XYZ Ranking.',
+        'Alfreno Dwiki Pradana - 23035010033 - Juara 3 Kejuaraan Bola Voli "AIRLANGGA NATIONAL VOLLEYBALL CHAMPIONSHIP 2023"',
+        'Izduhar Abdul Hafiz - 22035010135 - Juara 3 Kejuaraan Bola Voli "AIRLANGGA NATIONAL VOLLEYBALL CHAMPIONSHIP 2023"',
+        'Alfirdaus Nawawi (2021) - Ouara 3 Civil Tender Competition 2023',
+        'Izmanaya Avril Servanty (2021) - Ouara 3 Civil Tender Competition 2023',
+        'Athailah Putra Setiawan (2022) - Ouara 3 Tanding Kejuaraan Pencak Silat Bandung Lautan Api International Championship 2023',
       ],
       lecturers: [
         'Dr. Ir. Minarni Nur Trilita, M.T.',
@@ -104,9 +108,10 @@ class Constants {
       headOfProgram: 'Ir. Rushdiymto, MT.',
       website: 'https://tekindustri.upnjatim.ac.id/',
       achievements: [
-        'Winner of the National Computer Science Competition 2021.',
-        'Recipient of the Best Research Paper Award at the International Conference on Computer Science.',
-        'Ranked among the top 10 computer science programs in the country by XYZ Ranking.',
+        'Muhamad Mukhtarul Haqi (2020) - Juara 2 Kompetisi Esai Nasional 2023',
+        'Bagus Wicaksono (2020) - Ouara 1 Pencak Silat Kelas 1 Putra Porprov Jawa Tengah 2023',
+        'Tryandika Rizkat Prashodang (2021) - Juara 2 Kompetisi Esai Nasional 2023',
+        'Achmad Gufron (2021) - Ouara 3 LKTIN Industrial Engineering Festival 2023',
       ],
       lecturers: [
         'Dr. Ir. Minto Waluyo, MM.',
@@ -132,9 +137,11 @@ class Constants {
       headOfProgram: 'Dr. Rosida, S.TP, MP',
       website: 'https://tekpangan.upnjatim.ac.id/',
       achievements: [
-        'Winner of the National Computer Science Competition 2021.',
-        'Recipient of the Best Research Paper Award at the International Conference on Computer Science.',
-        'Ranked among the top 10 computer science programs in the country by XYZ Ranking.',
+        'Regita Widya Pramesti (2021) - Juara 1 Kumite Regional Elite Putri',
+        'Regita Widya Pramesti (2021) - Juara 2 Lomba Demo Jujitsu Unesa Open 2023',
+        'Alfina Ayu Puspita (2019) - Pendanaan Riset Program Indofood Riset Nugroho Periode 2022 - 2023',
+        'Elistiya Nuraini Putri Hendrawan (2021) - Winner Of Miss Hijab Favorit Jawa Timur 2022 dan Top 20 Finalis Miss Hijab Jawa Timur 2022 dalam event Miss Hijab Jawa Timur 2022',
+        'Talitha Ayu Daffa Athallah (2021) - Winner Duta Lingkungan Jawa Timur 2022 dalam Pemilihan Duta Lingkungan Jawa Timur 2022',
       ],
       lecturers: [
         'Dr. Dra. Jariyah, MP',
