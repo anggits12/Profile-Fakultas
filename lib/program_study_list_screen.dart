@@ -80,19 +80,23 @@ class ProgramStudyListScreen extends StatelessWidget {
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
-                          Row(
-                            children: [
-                              Image.asset(
-                                programStudies[index].logo,
-                                width: 200,
-                                height: 100,
-                              ),
-                              SizedBox(width: 40),
-                              Text(
-                                programStudies[index].name,
-                                style: TextStyle(fontSize: 20),
-                              ),
-                            ],
+                          Expanded(
+                            child: Row(
+                              children: [
+                                Image.asset(
+                                  programStudies[index].logo,
+                                  width: 100,
+                                  height: 100,
+                                ),
+                                SizedBox(width: 10),
+                                Expanded(
+                                  child: Text(
+                                    programStudies[index].name,
+                                    style: TextStyle(fontSize: 20),
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
                           Icon(Icons.arrow_forward),
                         ],
@@ -135,19 +139,23 @@ class ProgramStudyListScreen extends StatelessWidget {
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
-                          Row(
-                            children: [
-                              Image.asset(
-                                identity[index].foto,
-                                width: 200,
-                                height: 100,
-                              ),
-                              SizedBox(width: 40),
-                              Text(
-                                identity[index].daftar,
-                                style: TextStyle(fontSize: 20),
-                              ),
-                            ],
+                          Expanded(
+                            child: Row(
+                              children: [
+                                Image.asset(
+                                  identity[index].foto,
+                                  width: 100,
+                                  height: 100,
+                                ),
+                                SizedBox(width: 10),
+                                Expanded(
+                                  child: Text(
+                                    identity[index].daftar,
+                                    style: TextStyle(fontSize: 20),
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
                           Icon(Icons.arrow_forward),
                         ],
